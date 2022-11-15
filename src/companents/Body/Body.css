@@ -1,0 +1,14 @@
+.body{
+    max-width: 1280;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.body .body__cart{
+    margin-top: 30px;
+    width: 80%;
+    height: 400px;
+    box-shadow: 1px 3px 7px rgba(0, 0, 0, 0.587);
+    border-radius: 14px;
+    padding: 40px ;
+}
